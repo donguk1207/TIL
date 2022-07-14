@@ -1,7 +1,6 @@
 # JavaScript 제어문-조건문 
 ## 🟡문법  
 if(조건식){  
-     //statement1  
   }else if(조건식){  
     //statement2  
   }else{  
